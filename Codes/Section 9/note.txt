@@ -1,4 +1,0 @@
-Problems/ Topics discussed in this Section are taught on Web browsers. But that doesn't mean that these are not applicable in Mobile Browsers
-
-Same applies to Mobile Browsers UI as well. So please grasp the concept in it to automate Mobile Chome/Android browsers in complex environments
-
