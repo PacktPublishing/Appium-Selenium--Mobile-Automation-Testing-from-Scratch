@@ -1,0 +1,7 @@
+Android App download for practise
+
+Please download the App from Resources location: 
+
+ApiDemos-debug.apk
+
+I will be using this App in the next few lectures for explanations.
